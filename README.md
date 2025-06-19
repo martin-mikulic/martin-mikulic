@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Martin Mikulić
+## 👋 Hi, I'm Martin
 
 **3D Environment Artist | Unity "Developer" | Trail Runner**
 
