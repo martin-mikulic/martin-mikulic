@@ -17,7 +17,9 @@ I try to bring immersive environments to life in Unity-bridging, realistic and s
 📦 **Projects currently active**
 
 * 🛣️ `Roadplay`: An animated city-rug simulation published on GitHub Pages [🔗Roadplay repository ](https://github.com/martin-mikulic/Roadplay)
+*  🦅`ZAGOR-TE-NAY`: This project is part of my learning journey exploring Spine 2D workflows, Unity integration, and web deployment. [🔗Zagor repository ](https://github.com/martin-mikulic/Spine_Zagor)
 * 🚗 `Golf 2 Country`: Custom mod for *SnowRunner* with Syncro 4x4 (still private)
+
 
 
 🌍 **Currently Exploring**
