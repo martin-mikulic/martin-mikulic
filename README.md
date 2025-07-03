@@ -9,10 +9,8 @@ I try to bring immersive environments to life in Unity-bridging, realistic and s
 
 * Engines: Unity (URP, HDRP, WebGL, VR) Unreal 
 * DCC: Blender, 3Ds Max, Substance Painter, Zbrush
-* Rokoko SmartSuit Pro 2 (Mocap)
-* Git & GitHub (Pages, Actions)
-
-
+* Git & GitHub
+* Spine, VSCode  
 
 📦 **Projects currently active**
 
