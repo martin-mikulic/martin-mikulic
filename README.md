@@ -17,7 +17,7 @@ For progress status, visit the [🗂 GitHub Project Board](https://github.com/us
 | -------------------------------------------------------------------- | :-----------------------------------: | ------------------------------------------------------ |
 | 🦅 [**Zagor-Te-Nay**](https://github.com/martin-mikulic/Spine_Zagor) | Spine 2D workflows and web deployment | [🔗Repo](https://github.com/martin-mikulic/Spine_Zagor) |
 | 🛣️ [**Roadplay**](https://github.com/martin-mikulic/Roadplay)        | Animated city rug simulation          | [🔗Repo](https://github.com/martin-mikulic/Roadplay)    |
-| 😼 [**Captain Claw**](https://github.com/martin-mikulic/Spine_Zagor) | 2.5D platformer remake                | [🔗Repo](https://github.com/martin-mikulic/Spine_Zagor) |
+| 😼 [**Captain Claw**](https://github.com/martin-mikulic/Spine_Zagor) | 2.5D platformer remake                | [🔗Repo](https://github.com/martin-mikulic/Captain_Claw) |
 | 🔥 **Lava-Tech Outpost**                                             | Concept-to-playable Unity level       | ❌ Soon™️                                                |
 | 🚗 **Golf 2 Country**                                                | SnowRunner mod                        | ❌ Soon™️                                                |
 ### 🛠 Tech Stack
