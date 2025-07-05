@@ -1,54 +1,44 @@
-## 👋 Hi, I'm Martin
+## 👋 Hi, I'm Martin Mikulić ![Visitor Count](https://komarev.com/ghpvc/?username=martin-mikulic\&color=orange)
 
-**3D Environment Artist | Unity "Developer" | Trail Runner**
+**3D Environment Artist · Unity Developer · Trail Runner**
 
-🎮 **Game Dev with a Touch of Adventure**
-I try to bring immersive environments to life in Unity-bridging, realistic and stylized art, animation, and code to create playable worlds blending visual storytelling with technical execution.
-
-🛠 **Tech Stack & Tools**
-
-* Engines: Unity (URP, HDRP, WebGL, VR) Unreal 
-* DCC: Blender, 3Ds Max, Substance Painter, Zbrush
-* Git & GitHub
-* Spine, VSCode  
-
-📦 **Projects currently active**
-
-* 🛣️ `Roadplay`: An animated city-rug simulation published on GitHub Pages [🔗Roadplay repository ](https://github.com/martin-mikulic/Roadplay)
-*  🦅`ZAGOR-TE-NAY`: This project is part of my learning journey exploring Spine 2D workflows, Unity integration, and web deployment. [🔗Zagor repository ](https://github.com/martin-mikulic/Spine_Zagor)
-* 🚗 `Golf 2 Country`: Custom mod for *SnowRunner* with Syncro 4x4 (still private)
-
-
-
-🌍 **Currently Exploring**
-
-* 2.5D Platformers (inspired by *Captain Claw*)
-* Unity WebGL optimizations for mobile
-* Procedural environment generation
-
-📸 **Snapshots of My World**
-Outside of dev, you'll find me running trails or recreating nostalgic worlds - like turning children's road rugs into explorable dioramas.
-
-📬 **Let’s Collaborate**
-Open to freelance gigs, collabs, and cool creative ideas. Reach out if you need a unique environment brought to life.
-
-[🌐artstation.com](https://www.artstation.com/martinmikulic) | [💼 LinkedIn](https://www.linkedin.com/in/martin-mikulic) | [✉️ Email](mailto:martin.mikulic94@gmail.com)
+Here I am "limited by the technology of my time" - for more interactivity, visit [my site](https://martin-mikulic.github.io/) 🚧 .
 
 ---
 
-> "Environment design is storytelling without words."
+### 🎮 Game Development
 
-Thanks for reading, and if you are interested in more feel free check out more of my links: 
+I create immersive environments by combining stylized and realistic art, animation, and code.
 
+### 📦 Featured Projects
 
-Artstation: https://www.artstation.com/martinmikulic    
+* 🦅 **Zagor-Te-Nay** - Spine 2D workflows and web deployment ([Repo](https://github.com/martin-mikulic/Spine_Zagor))
+* 🛣️ **Roadplay** - Animated city rug simulation ([Repo](https://github.com/martin-mikulic/Roadplay))
+* 🚗 **Golf 2 Country** - SnowRunner mod
+* 😼 **Captain Claw** - 2.5D platformer remake (repo coming soon)
+* 🔥 **Lava-Tech Outpost** - Concept-to-playable Unity level
 
-Sketchfab: https://sketchfab.com/martin_mikulic 
+### 🛠 Tech Stack
 
-LinkedIn: https://www.linkedin.com/in/martinmikulic/    
+* **Engines**: Unity (URP, HDRP, WebGL, VR), Unreal
+* **DCC**: Blender, 3Ds Max, Substance Painter, ZBrush
+* **Tools**: Spine, Rokoko SmartSuit, VSCode, GitHub
 
-Youtube: https://www.youtube.com/@martin_mikulic    
+### 🌍 Currently Exploring
 
-Twitch: https://www.twitch.tv/martin_mikulic/   
+* 2.5D platformer mechanics
+* WebGL optimizations
 
-![](https://komarev.com/ghpvc/?username=martin-mikulic&color=orange)
+### 📸 Beyond the Screen
+
+When I'm not staring at the screen, you'll find me trail running enjoy the nature.
+
+---
+
+### 📬 Connect with Me
+
+[🌐 Artstation](https://www.artstation.com/martinmikulic) · [🔗 Sketchfab](https://sketchfab.com/martin_mikulic) · [💼 LinkedIn](https://www.linkedin.com/in/martinmikulic/) · [▶️ YouTube](https://www.youtube.com/) · [🎮 Twitch](https://www.twitch.tv/martin_mikulic) · [✉️ Email](mailto:martin.mikulic94@gmail.com)
+
+> *Environment design is storytelling without words.*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=martin-mikulic\&color=orange)
