@@ -11,16 +11,15 @@ Here I am "limited by the technology of my time" - for more interactivity, visit
 I create immersive environments by combining stylized and realistic art, animation, and code.
 
 ### 📦 Featured Projects
-For progress status, visit the [🗂 GitHub Project Board](https://github.com/users/martin-mikulic/projects/6).
+For progress status, visit the [🗂 GitHub Project Board](https://github.com/users/martin-mikulic/projects/6). [![View Roadmap](https://img.shields.io/badge/roadmap-view%20progress-blue)](https://github.com/users/martin-mikulic/projects/6/)
 
-[![View Roadmap](https://img.shields.io/badge/roadmap-view%20progress-blue)](https://github.com/users/martin-mikulic/projects/6/)
-
-* 🦅 **Zagor-Te-Nay** - Spine 2D workflows and web deployment ([Repo](https://github.com/martin-mikulic/Spine_Zagor))
-* 🛣️ **Roadplay** - Animated city rug simulation ([Repo](https://github.com/martin-mikulic/Roadplay))
-* 🚗 **Golf 2 Country** - SnowRunner mod
-* 😼 **Captain Claw** - 2.5D platformer remake (repo coming soon)
-* 🔥 **Lava-Tech Outpost** - Concept-to-playable Unity level
-
+| Project                                                             | Description                           | Link                                                   |
+| -------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------ |
+| 🦅 [**Zagor-Te-Nay**](https://github.com/martin-mikulic/Spine_Zagor) | Spine 2D workflows and web deployment | [🔗Repo](https://github.com/martin-mikulic/Spine_Zagor) |
+| 🛣️ [**Roadplay**](https://github.com/martin-mikulic/Roadplay)        | Animated city rug simulation          | [🔗Repo](https://github.com/martin-mikulic/Roadplay)    |
+| 😼 [**Captain Claw**](https://github.com/martin-mikulic/Spine_Zagor) | 2.5D platformer remake                | [🔗Repo](https://github.com/martin-mikulic/Spine_Zagor) |
+| 🔥 **Lava-Tech Outpost**                                             | Concept-to-playable Unity level       | ❌ Soon™️                                                |
+| 🚗 **Golf 2 Country**                                                | SnowRunner mod                        | ❌ Soon™️                                                |
 ### 🛠 Tech Stack
 
 * **Engines**: Unity (URP, HDRP, WebGL, VR), Unreal
